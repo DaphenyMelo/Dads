@@ -1,12 +1,12 @@
     body{
         color: black;
-        background: red;
+        background: lightblue;
         font-family: "Playwrite GB S", cursive;
         margin: 8px;
         margin-bottom: 100px;
     }
     .chamada{
-        background: rgb(118, 192, 216) ;
+        background: lightblue ;
         margin-top: 80px;
         margin-bottom: 80px;
         display: flex;
